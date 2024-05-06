@@ -2,7 +2,7 @@
 ![Data Analyst](https://github.com/princeadeakanni/Excel_Project/blob/main/Redox%20Airline.PNG)
 
 ## Introduction
-This project aims to analyze the data and present key insights to drive the business growth and position in the industry. The data includes information on Aircrafts, Airports, Routes, and general operational cost and reveune. Also shows how I optimizied and analyze routes and operations to enhance customer experiences through data-driven insights and innovative solutions.
+This project aims to analyze the data and present key insights to drive the business growth and position in the airline industry. The data includes information on Aircrafts, Airports, Routes, and general operational cost and reveune. Also shows how I optimizied and analyze routes and operations to enhance customer experiences through data-driven insights and innovative solutions.
 
 **_Disclaimer_**: _Please note that the information shared in this repository is for educational and demonstration purposes only._
 
