@@ -1,4 +1,4 @@
-# REDOX Airline Upgrade Analysis
+# BRITISHAIRWAYS  Upgrade Analysis
 ![Data Analyst](https://github.com/princeadeakanni/Excel_Project/blob/main/Redox%20Airline.PNG)
 
 ## Introduction
